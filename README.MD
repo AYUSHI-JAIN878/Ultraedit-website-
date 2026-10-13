@@ -44,7 +44,6 @@ You can also use the **Live Server** extension in VS Code to preview the website
 ## 🎯 Project Objective
 
 The objective of this project is to practice frontend web development concepts, including HTML page structure, CSS styling, layout design, and website recreation.
-
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository!
